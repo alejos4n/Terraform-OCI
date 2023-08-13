@@ -1,0 +1,10 @@
+# Ignora los archivos relacionados a API keys
+.env
+# Ignora los archivos relacionados a API keys
+.tfstate
+.tfvars
+.tfstate.backup
+.terraform
+alejilloloperaprivate.pem
+alejilloloperapublic.pem
+publickey.pub
